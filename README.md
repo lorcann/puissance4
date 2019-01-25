@@ -16,3 +16,6 @@ Le célèbre jeu puissance 4 ! Réalisé sous forme de plugin jQuery.
 
 ## Demo
 > https://codepen.io/Lorcann/pen/OdyZxK
+
+## Technologies
+HTML5, CSS3, Javascript, jQuery
